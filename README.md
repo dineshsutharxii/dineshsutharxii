@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Pyhton, Selenium, Appium**
 
-- 📫 How to reach/Hire me **dineshsutharxiii@gmail.com** or https://linkedin.com/in/dineshsutharxii
+- 📫 How to reach/Hire me **dineshsutharxii@gmail.com** or https://linkedin.com/in/dineshsutharxii
 
 - ⚡ Fun fact **If I am interested in something then I will learn about that in no time.**
 
