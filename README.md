@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as **Software Engineer**
 
-- 🌱 I’m currently working on **Appium with Python, Selenium with Python**
+- 🌱 I’m currently working on **Selenium with Python and Cypress**
 
-- 💬 Ask me about **Pyhton, Selenium, Appium**
+- 💬 Ask me about **Pyhton, Selenium, Cypress, Postman**
 
 - 📫 How to reach/Hire me **dineshsutharxii@gmail.com** or https://linkedin.com/in/dineshsutharxii
 
