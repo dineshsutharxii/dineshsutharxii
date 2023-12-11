@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif)](https://linkedin.com/in/dineshsutharxii)
+//[![MasterHead](https://i.pinimg.com/originals/c6/9f/a6/c69fa6e9d0af971ba052817ae70c4261.gif)](https://linkedin.com/in/dineshsutharxii)
 <h1 align="center">Hi 👋, I'm Dinesh Suthar</h1>
 <h3 align="center">A passionate SDET/Automation Tester</h3>
 <img align = "right" alt="Coding" width="300" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
