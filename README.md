@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **Selenium with Python and Cypress**
 
-- 💬 Ask me about **Pyhton, Selenium, Cypress, Postman**
+- 💬 Ask me about **Python, Selenium, Cypress, Postman**
 
 - 📫 How to reach/Hire me **dineshsutharxii@gmail.com** or https://linkedin.com/in/dineshsutharxii
 
