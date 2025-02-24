@@ -3,11 +3,11 @@
 <h3 align="center">A passionate SDET/Automation Tester</h3>
 <img align = "right" alt="Coding" width="300" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif">
 
-- 🔭 I’m currently working as **Software Engineer**
+- 🔭 I’m currently working as **Senior Software Engineer**
 
-- 🌱 I’m currently working on **Selenium with Python, request, git and postman**
+- 🌱 I’m currently working on **Python, Selenium with Python, request, git, Github, Github Actions and postman**
 
-- 💬 Ask me about **Python, Selenium, requests, Postman**
+- 💬 Ask me about **Python, Devops, Selenium, requests, Postman**
 
 - 📫 How to reach/Hire me **dineshsutharxii@gmail.com** or https://linkedin.com/in/dineshsutharxii
 
