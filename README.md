@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as **Senior Software Engineer**
 
-- 🌱 I’m currently working on **Python, Selenium with Python, request, git, Github, Github Actions and postman**
+- 🌱 Currently working on **Python, Selenium with Python, AWS, request, git, Github, Github Actions and postman**
 
-- 💬 Ask me about **Python, Devops, Selenium, requests, Postman**
+- 💬 Ask me about **Python, Devops, AWS, Selenium, requests, Postman**
 
 - 📫 How to reach/Hire me **dineshsutharxii@gmail.com** or https://linkedin.com/in/dineshsutharxii
 
